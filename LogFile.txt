@@ -1,0 +1,7 @@
+﻿2023-05-26 11:03:34.9579 DEBUG Debug unsucessful : Sum()
+2023-05-26 11:03:35.0588 ERROR Input Number can't be zero 
+2023-05-26 11:03:35.0588 WARN firstNumber or SecondNumber shoud not equal to 0
+2023-05-26 11:03:35.0588 DEBUG Debug successful : sum()
+2023-05-26 11:03:35.0588 INFO sum Method passed , result : 6
+2023-10-03 14:56:16.7243 DEBUG Debug successful : sum()
+2023-10-03 14:56:16.7739 INFO sum Method passed , result : 8
