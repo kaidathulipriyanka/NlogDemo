@@ -1,7 +1,7 @@
 ﻿using System;
 namespace NLogDemo
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
